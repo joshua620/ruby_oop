@@ -1,0 +1,1 @@
+puts "The hi method is private.  You would have to make it public to make it available to the object."
